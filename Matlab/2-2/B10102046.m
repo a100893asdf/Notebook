@@ -1,0 +1,5 @@
+A = magic(5)
+max(A')
+min(A)
+sort(A')
+max(min(A))
